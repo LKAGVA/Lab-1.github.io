@@ -1,0 +1,78 @@
+h1 {
+    color: whitesmoke;
+    font-size: 70px;
+    text-transform: uppercase;
+    background-color:rgb(238, 230, 245);
+    background-size:auto;
+}
+.photo {
+    width: auto;
+    border-radius: 5px;
+    overflow: hidden;
+
+}
+.photo img {
+    width: 100%;
+}
+.t1 {
+    border-collapse: collapse;
+    margin:auto;
+
+}
+.t1 td {
+    padding: 1px;
+}
+.body {
+
+}
+.top {
+    border-bottom: 1px solid blueviolet;
+}
+.container {
+    width: 1600px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.clr {
+    clear: both;
+}
+.social {
+
+}
+.busad {
+
+}
+.header {
+    padding: 20px 0;
+}
+.menu {
+    background: #ffffff;
+
+}
+.menu ul {
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    display: inline-block;
+}
+.menu li a {
+    color: rgb(76, 10, 82);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 15px;
+    display: block;
+}
+.menu li a:hover {
+    background: #f32b08;
+}
+a {
+    text-decoration: none;
+}

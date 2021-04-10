@@ -1,0 +1,40 @@
+h1 {
+    border-style: solid;
+    padding: 1% 10%;
+    text-align:center;
+    color:hsl(231, 33%, 96%);
+    background: #14168a;
+    border-radius: 20px;
+    overflow: hidden;
+    border-bottom: 15px solid #f0ba46;
+}
+.container1 img {
+    width: auto;
+
+}
+P {
+    text-align:center;
+    font-family: Arial;
+    font-size: 25px;
+    font-style: italic;
+}
+.color {
+    color:whitesmoke;
+}
+.tab2 tr {
+    margin: 0;
+    padding: 0;
+}
+.tab2 td div ul {
+    margin: 0;
+    padding: 0;
+}
+.tab2 li a {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 10px 20px;
+    display: inline-block;
+
+
+}
